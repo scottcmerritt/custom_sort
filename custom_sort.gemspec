@@ -6,13 +6,13 @@ Gem::Specification.new do |spec|
   spec.name          = "custom_sort"
   spec.version       = CustomSort::VERSION
   spec.authors       = ["Scott Merritt"]
-  spec.email         = ["scott.merritt@gmail.com"]
+  spec.email         = ["dev@meritocracyconsulting.com"]
 
-  spec.summary       = "A gem for passing in sorting parameters"
-  spec.description   = "It is just a test gem"
-  spec.homepage      = "http://rubygems.com/gems/custom_sort"
+  spec.summary       = "A gem for sorting data"
+  spec.description   = "It allows you to sort by predefined basic algorithms"
+  spec.homepage      = "https://github.com/scottcmerritt/custom_sort"
 
-  spec.metadata["allowed_push_host"] = "http://rubygems.com"
+  spec.metadata["allowed_push_host"] = "https://rubygems.com"
 
   spec.metadata["homepage_uri"] = spec.homepage
   spec.metadata["source_code_uri"] = "https://github.com/scottcmerritt/custom_sort.git"
